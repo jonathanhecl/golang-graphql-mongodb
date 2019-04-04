@@ -8,7 +8,7 @@ Uses the following packages:
 
 # Features!
 
-  - Authentification Header
+  - Authorization Header
   - SignUp/SignIn users
   - Users Profiles
   - List recipes
